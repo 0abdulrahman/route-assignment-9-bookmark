@@ -76,7 +76,7 @@ table td a {
 }
 
 table td a:hover {
-  background-color: #8a9e23;
+  background-color: #8a9e23 !important;
 }
 
 ::selection {
